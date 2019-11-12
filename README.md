@@ -2,7 +2,9 @@
 
 Ideja projekta je izračunavanje projektivnog preslikavanja i ispravljanje distorzije slike.
 
-# Uputstvo za korišćenje:
+![Trenutni izgled programa](images/program.gif)
+
+# :video_game: Uputstvo za korišćenje:
 
 - Prvo što treba korisnik da unese jeste broj tačaka koji će koristiti
 
