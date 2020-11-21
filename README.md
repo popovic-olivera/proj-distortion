@@ -1,4 +1,4 @@
-# Projective-geometry-term-project
+# Otklanjanje projektivne distorzije slika
 
 Ideja projekta je izračunavanje projektivnog preslikavanja i ispravljanje distorzije slike.
 
